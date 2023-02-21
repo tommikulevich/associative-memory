@@ -12,9 +12,12 @@ In this project, Dense Associative Memory was implemented using *MATLAB (R2021b)
 ### 🔠 Screenshots
 #### · Program interface (Command Window)
 <img src="/_readmeImg/menu.png?raw=true 'Menu'" width="300">
+
 #### · A few moments after memorizing and selecting the image to recognize
 <img src="/_readmeImg/part1.png?raw=true 'Part I'" width="500">
+
 #### · When the image is stabilized
 <img src="/_readmeImg/part2.png?raw=true 'Part II'" width="500">
+
 #### · Final results
-<img src="/_readmeImg/part3.png?raw=true 'Part III'" width="500">
+<img src="/_readmeImg/part3.png?raw=true 'Part III'" width="700">
