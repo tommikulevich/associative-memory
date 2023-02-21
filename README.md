@@ -1,6 +1,6 @@
 # 🧠 Handwritten character recognition using Dense Associative Memory
 
-> ☣ **Warning:** This project was created for educational purposes only. It may contain non-optimal or outdated solutions.
+> ☣ **Warning:** This project was created during my studies for educational purposes only. It may contain non-optimal or outdated solutions.
 
 ### 📝 About
 **Dense Associative Memories** are an extension of the traditional Hopfield networks that overcome the linear growth constraint between the number of input characteristics and stored memories. This is accomplished by introducing more powerful non-linear functions that result in a memory storage capacity that increases at a greater-than-linear rate with the number of feature neurons. 
