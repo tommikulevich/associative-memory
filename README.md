@@ -1,4 +1,4 @@
-# 🧠 Handwritten text recognition using Dense Associative Memory
+# 🧠 Handwritten character recognition using Dense Associative Memory
 
 > ☣ **Warning:** This project was created for educational purposes only. It may contain non-optimal or outdated solutions.
 
@@ -14,14 +14,10 @@ In this project, Dense Associative Memory was implemented using *MATLAB (R2021b)
 
 <img src="/_readmeImg/menu.png?raw=true 'Menu'" width="300">
 
-**A few moments after memorizing and selecting the image to recognize**
+**Stabilization (after memorizing and selecting the image to recognize)**
 
-<img src="/_readmeImg/part1.png?raw=true 'Part I'" width="500">
-
-**When the image is stabilized**
-
-<img src="/_readmeImg/part2.png?raw=true 'Part II'" width="500">
+<img src="/_readmeImg/processing.gif?raw=true 'Processing'" width="500">
 
 **Final results**
 
-<img src="/_readmeImg/part3.png?raw=true 'Part III'" width="700">
+<img src="/_readmeImg/results.png?raw=true 'Results'" width="700">
