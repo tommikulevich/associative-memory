@@ -11,6 +11,6 @@ In this project, Dense Associative Memory was implemented using *MATLAB (R2021b)
 
 ### 🔠 Screenshots
 - Program interface (Command Window)
-![Alt text](/_readmeImg/menu.jpg?raw=true "Menu")
+![Alt text](/_readmeImg/menu.png?raw=true "Menu")
 - ...
 - ...
