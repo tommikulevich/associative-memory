@@ -20,4 +20,4 @@ In this project, Dense Associative Memory was implemented using *MATLAB (R2021b)
 
 **Final results**
 
-<img src="/_readmeImg/results.png?raw=true 'Results'" width="700">
+<img src="/_readmeImg/result.png?raw=true 'Results'" width="700">
