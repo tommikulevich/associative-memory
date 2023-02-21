@@ -10,7 +10,11 @@ In this project, Dense Associative Memory was implemented using *MATLAB (R2021b)
 **_Important to know_**: Hopfield networks converge to the 'remembered' state when some part of this state is given. Thus, such a network can supplement or fix the image (e.g. with noise), but cannot (in most cases) 'associate' a completely new image.
 
 ### 🔠 Screenshots
-- Program interface (Command Window)
+##### Program interface (Command Window)
 ![Alt text](/_readmeImg/menu.png?raw=true "Menu")
-- ...
-- ...
+##### A few moments after memorizing and selecting the image to recognize
+![Alt text](/_readmeImg/part1.png?raw=true "Part I")
+##### When the image is stabilized
+![Alt text](/_readmeImg/part2.png?raw=true "Part II")
+##### Final results
+![Alt text](/_readmeImg/part3.png?raw=true "Part III")
